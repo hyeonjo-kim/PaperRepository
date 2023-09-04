@@ -1,2 +1,2 @@
 # PaperRepository
-All of my papers
+My papers
